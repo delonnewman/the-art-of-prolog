@@ -21,7 +21,7 @@ father(jacob,gad).
 father(jacob,asher).
 father(jacob,issachar).
 father(jacob,zebulun).
-father(jacob,dina).
+father(jacob,dinah).
 father(jacob,joseph).
 father(jacob,benjamin).
 
@@ -39,7 +39,7 @@ mother(zilpah,gad).
 mother(zilpah,asher).
 mother(leah,issachar).
 mother(leah,zebulun).
-mother(leah,dina).
+mother(leah,dinah).
 mother(rachel,joseph).
 mother(rachel,benjamin).
 
@@ -52,7 +52,7 @@ female(rachel).
 female(leah).
 female(bilhah).
 female(zilpah).
-female(dina).
+female(dinah).
 
 male(terach).
 male(abraham).
